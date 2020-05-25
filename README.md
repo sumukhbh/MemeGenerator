@@ -1,1 +1,1 @@
- Built a simple Meme Generator using React and imgflip API.
+ A simple Meme Generator built using React and imgflip API.
